@@ -1,0 +1,7 @@
+{
+  "name": "48-ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
